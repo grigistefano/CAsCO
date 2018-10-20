@@ -1,4 +1,8 @@
 # CAsCO
+## Cellular Automata Sound Compositor
+
+CAsCO è un progetto sviluppato per l'università degli studi di Milano - Bicocca dagli studenti: Grigis Stefano, Cinchetti Andrea e Ajmone Marsan Michele. L'applicazione è sviluppata in Java e consiste in un compositore di tracce musicali che sfrutta gli automi cellulari per diversificare ogni volta la sequenza di note che si ottiene. Un'interfaccia di impostazioni permettere inoltre di scegliere quali strumenti far suonare e di definire una serie di parametri che infuiscono sulla composizione.
+
 
 ### Installazione
 
@@ -10,4 +14,4 @@ Aggiungere tale file alla seguente cartella del progetto: ..\CAsCO\src\casco\mus
 
 ## Esecuzione
 
-Eseguire il seguente progetto come un normale progetto JAVA
+Eseguire come un normale progetto JAVA
